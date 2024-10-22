@@ -5,5 +5,5 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroH1104" alt="Top Langs" height="200px">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroH1104&show_icons=true&theme=radical" alt="GitHub Stats" height="200px">  
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroH1104&show_icons=true&theme=radical&hide=stars,issues" alt="GitHub Stats" height="200px">
 </div>
