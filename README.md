@@ -9,6 +9,6 @@
 <br/>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroH1104&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph" /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroH1104&show_icons=true&theme=radical&hide=stars,issues" alt="GitHub Stats" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroH1104&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroH1104&show_icons=true&theme=radical&hide=stars,issues" alt="GitHub Stats" height="150px">
 </div>
