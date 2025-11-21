@@ -1,4 +1,4 @@
-## Olá! Eu sou o Pedro Henrique
+## Pedro Henrique - Front-End Developer
 
 - 🔭 Hoje trabalho com front-end, tanto web como mobile utilizando React e React Native.
 - 📖 Estou cursando Licenciatura em computação na UFRPE, conclusão prevista para dez/2026.
