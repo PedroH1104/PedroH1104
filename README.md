@@ -10,5 +10,5 @@
 <br/>
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroH1104&locale=en&hide_title=false&layout=compact&card_width=850&langs_count=5&theme=dracula&hide_border=false" height="400" alt="languages graph" />   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroH1104&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=5&theme=dracula&hide_border=false" height="450" alt="languages graph" />   
 </div>
