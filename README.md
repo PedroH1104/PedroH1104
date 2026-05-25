@@ -7,8 +7,4 @@
 - 📚 Estou desenvolvendo o [CLP (Controle de Leitura Pessoal)](https://github.com/PedroH1104/CLP) como uma forma de expor minhas habilidades e resolver um problema real: a gestão de leituras. Esse projeto é uma oportunidade de aplicar meus conhecimentos em tecnologias e práticas de desenvolvimento, criando uma ferramenta que ajuda os usuários a monitorar suas leituras e a estabelecer metas de forma organizada. Você consegue ver o [vídeo de demonstração](https://www.linkedin.com/feed/update/urn:li:activity:7386190156468359168).
 - 🌐 Além disso, possuo um site como [portfólio](https://react-my-site-ts.vercel.app), que desenvolvi ainda no começo da minha jornada utilizando minhas habilidades em React. Nele você encontrará algumas informações sobre mim. Porém, ele não está totalmente atualizado, e para isso, você pode acessar meu [LinkedIn](https://www.linkedin.com/in/pedro-henrique-534a941b5/) para mais informações.
 
-<br/>
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroH1104&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=5&theme=dracula&hide_border=false" height="450" alt="languages graph" />   
-</div>
